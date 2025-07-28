@@ -1,6 +1,6 @@
 title: Your Blog Name
 description: A brief description
 baseurl: "" # leave empty for username.github.io repos
-url: "https://username.github.io"
+url: "https://gbajaj.github.io"
 markdown: kramdown
 theme: minima
